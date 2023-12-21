@@ -1,0 +1,4 @@
+#Thu Dec 21 08:31:44 WIB 2023
+base.0=/Users/andryachmadfadilla/Downloads/aplikasi-universitas-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
